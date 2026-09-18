@@ -1,4 +1,4 @@
-## Systems correctness, fault diagnosis, and runtime engineering.
+# Systems correctness, fault diagnosis, and runtime engineering.
 
 I work on failures where language semantics, runtime lifetimes, and low-level implementation choices interact. My recent work includes upstream fixes in DuckDB and WasmEdge, a garbage-collection fix proposed to workerd, and CUDA kernel optimization on NVIDIA B200.
 
