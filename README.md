@@ -18,6 +18,6 @@ Current focus: **WebAssembly runtimes**, particularly ownership across host/gues
 
 I work through written specifications, reproducible tests, and asynchronous review. For a scoped systems task, send the repository, observed behavior, and acceptance criteria.
 
-[Working together](https://github.com/Byte-Naut/systems-work/blob/main/WORKING_TOGETHER.md) · [Byte-Naut@proton.me](mailto:Byte-Naut@proton.me)
+[Working together](https://github.com/Byte-Naut/systems-work/blob/main/WORKING_TOGETHER.md) · [Byte-Naut@proton.me](mailto:Byte-Naut@proton.me) . [2025llxe@gmail.com](2025llxe@gmail.com)
 
 *Wasmtime series checked October 4, 2026; other upstream statuses recorded September 18, 2026. Benchmark values describe a recorded result, not a live ranking.*
